@@ -2744,5 +2744,6 @@ export namespace batches {
      */
     function status(batchId: string, opts?: GetBatchOpts): Promise<Batch>
 
+    // WIP: https://api.mailchimp.com/schema/3.0/
 }
 
